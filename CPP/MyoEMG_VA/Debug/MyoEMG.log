@@ -1,0 +1,16 @@
+﻿  MyForm.cpp
+C:\Users\pawel\Desktop\Praca_przejściowa\CPP\MyoEMG_VA\myo\cxx\detail\ThrowOnError.hpp(39,1): warning C4297: "myo::ThrowOnError::~ThrowOnError": wygenerowano wyjątek przy założeniu, że funkcja nie generuje wyjątku lecz wygenerowała
+C:\Users\pawel\Desktop\Praca_przejściowa\CPP\MyoEMG_VA\myo\cxx\detail\ThrowOnError.hpp(39,1): message : destruktor lub program wycofujący przydzielenia ma (być może niejawną) specyfikację wyjątku niezwracalnego
+C:\Users\pawel\Desktop\Praca_przejściowa\CPP\MyoEMG_VA\myo\cxx\detail\ThrowOnError.hpp(45,1): warning C4297: "myo::ThrowOnError::~ThrowOnError": wygenerowano wyjątek przy założeniu, że funkcja nie generuje wyjątku lecz wygenerowała
+C:\Users\pawel\Desktop\Praca_przejściowa\CPP\MyoEMG_VA\myo\cxx\detail\ThrowOnError.hpp(45,1): message : destruktor lub program wycofujący przydzielenia ma (być może niejawną) specyfikację wyjątku niezwracalnego
+C:\Users\pawel\Desktop\Praca_przejściowa\CPP\MyoEMG_VA\MyForm.h(678,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pawel\Desktop\Praca_przejściowa\CPP\MyoEMG_VA\MyForm.h(683,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pawel\Desktop\Praca_przejściowa\CPP\MyoEMG_VA\MyForm.h(688,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pawel\Desktop\Praca_przejściowa\CPP\MyoEMG_VA\MyForm.h(693,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pawel\Desktop\Praca_przejściowa\CPP\MyoEMG_VA\MyForm.h(698,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pawel\Desktop\Praca_przejściowa\CPP\MyoEMG_VA\MyForm.h(703,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pawel\Desktop\Praca_przejściowa\CPP\MyoEMG_VA\MyForm.h(708,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pawel\Desktop\Praca_przejściowa\CPP\MyoEMG_VA\MyForm.h(713,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pawel\Desktop\Praca_przejściowa\CPP\MyoEMG_VA\MyForm.cpp(15,1): warning C4829: Możliwe niepoprawne parametry funkcji main. Rozważ użycie "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  MyoEMG.vcxproj -> C:\Users\pawel\Desktop\Praca_przejściowa\CPP\MyoEMG_VA\Debug\MyoEMG.exe
